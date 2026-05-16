@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="CV_photo.jpg" alt="Md. Ramjan Hosen" width="140" style="border-radius: 50%; border: 4px solid #0D3B6E;" />
 
 # 👋 Hi, I'm Md. Ramjan Hosen
 
