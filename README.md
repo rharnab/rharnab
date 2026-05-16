@@ -255,7 +255,7 @@ I'm always open to exciting opportunities, collaborations, or just a good tech c
 | Channel | Details |
 |---|---|
 | 📧 Email | [rharnab@gmail.com](mailto:rharnab@gmail.com) |
-| 📞 Phone | [01620-601859](tel:+8801620601859) / [01830-850620](tel:+8801830850620) |
+| 💼 LinkedIn | [ramjan-hosen-arnab](https://www.linkedin.com/in/ramjan-hosen-arnab-2aa692164) |
 | 🐙 GitHub | [github.com/rharnab](https://github.com/rharnab) |
 | 📍 Location | Pallabi, Mirpur-12, Dhaka-1216, Bangladesh |
 
