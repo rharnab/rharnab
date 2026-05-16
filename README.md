@@ -9,7 +9,7 @@
 
 [![Email](https://img.shields.io/badge/Email-rharnab%40gmail.com-0D3B6E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rharnab@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-rharnab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rharnab)
-[![Phone](https://img.shields.io/badge/Phone-01620--601859-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801620601859)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ramjan%20Hosen%20Arnab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramjan-hosen-arnab-2aa692164)
 [![Location](https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-0D3B6E?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Mirpur-12,Dhaka)
 
 </div>
